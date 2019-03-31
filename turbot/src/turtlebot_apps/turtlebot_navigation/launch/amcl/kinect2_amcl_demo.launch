@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <launch>
   <!-- 3D sensor -->
   <arg name="3d_sensor" default="$(env TURTLEBOT_3D_SENSOR)"/>  <!-- r200, kinect, asus_xtion_pro -->
